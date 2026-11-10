@@ -2,20 +2,17 @@
 
 > LSPosed 模块 · 为快手、抖音、小红书、红果短剧提供界面精简与沉浸显示
 
-本仓库仅用于分发安装包与更新信息，**不包含源代码**。
+本仓库仅用于分发安装包与更新信息。
 
 ---
 
-## 下载
-
-最新版本：[`app-release.apk`](https://github.com/hsdjigheui/kiri-release/raw/main/app-release.apk)
 
 | 项目 | 值 |
 |---|---|
 | 当前版本 | 2026.11.11 |
 | 文件大小 | 约 2.8 MB |
 | 签名 | CN=kiri（正式签名） |
-| SHA-256 | 见 [`update.json`](update.json) |
+
 
 ---
 
