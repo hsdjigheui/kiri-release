@@ -160,6 +160,6 @@ https://ghfast.top/https://raw.githubusercontent.com/hsdjigheui/kiri-release/mai
 
 Copyright (c) 2026 Kiri Toolkit. All rights reserved.
 
-本项目为闭源项目，保留所有权利。未经作者书面许可，不得复制、修改、分发本项目的任何部分，不得用于商业用途或二次分发。
+未经作者书面许可，不得复制、修改、分发本项目的任何部分，不得用于商业用途或二次分发。
 
 本仓库仅提供编译后的安装包，源代码不公开。
