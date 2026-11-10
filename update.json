@@ -1,18 +1,20 @@
 {
-    "versionCode":  20262151,
-    "versionName":  "1.1.1",
-    "tag":  "v1.1.1",
-    "url":  "https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.1/app-release.apk",
+    "versionCode":  20262155,
+    "versionName":  "1.1.4",
+    "tag":  "v1.1.4",
+    "url":  "https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.4/app-release.apk",
     "mirrors":  [
-                    "https://ghfast.top/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.1/app-release.apk",
-                    "https://gh-proxy.com/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.1/app-release.apk",
-                    "https://ghproxy.net/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.1/app-release.apk"
+                    "https://ghfast.top/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.4/app-release.apk",
+                    "https://gh-proxy.com/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.4/app-release.apk",
+                    "https://ghproxy.net/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.4/app-release.apk"
                 ],
-    "sha256":  "f7b78ef0ddd16bc9b767d42f9ac4853b35d55705f30570fd287cd9940a1c89b0",
-    "size":  2918623,
+    "sha256":  "0223eb9c6dbe98e67cfea8dd9dfd46bbf2ad399804b415b4dc122f3b877f389d",
+    "size":  2919131,
     "notes":  [
-                  "GitHub 地址改为发布页",
-                  "更新入口跳转修复",
-                  "启动自动检查更新"
+                  "新增抖音板块：界面显示、视频与下载、评论与消息分组，独立配置互不影响",
+                  "新增评论屏蔽词：按关键词过滤评论区内容，支持多词与一键清空",
+                  "新增助手设置面板：宿主内浮层入口，主页长按版本号可查看更新与诊断",
+                  "新增底栏沉浸：视频画面延伸至屏幕底部，底栏背景透明，切换页面不再闪烁",
+                  "支持快手、小红书、红果、抖音四端适配"
               ]
 }
