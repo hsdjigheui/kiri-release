@@ -100,19 +100,6 @@
 
 ---
 
-## 应用内更新
-
-模块内置更新检查，主页长按版本号即可触发。
-
-更新源默认为本仓库的 `update.json`。若访问不畅，可在「修改更新源」中换成镜像地址：
-
-```
-https://ghfast.top/https://raw.githubusercontent.com/hsdjigheui/kiri-release/main/update.json
-```
-
-下载完成后会校验 SHA-256，与 `update.json` 记录不一致则拒绝安装。
-
----
 
 ## 常见问题
 
