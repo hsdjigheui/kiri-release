@@ -1,0 +1,13 @@
+{
+    "versionCode":  20261111,
+    "versionName":  "2026.11.11",
+    "url":  "https://raw.githubusercontent.com/hsdjigheui/kiri-release/main/app-release.apk",
+    "sha256":  "79cfe907c897ceef463d7e8e90f28170af075990d22185a941528ca6e576cf2d",
+    "size":  2918635,
+    "notes":  [
+                  "新增抖音板块",
+                  "新增评论屏蔽词",
+                  "新增助手设置面板",
+                  "新增底栏沉浸"
+              ]
+}
