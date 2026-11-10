@@ -1,13 +1,18 @@
 {
-    "versionCode":  20261111,
-    "versionName":  "2026.11.11",
-    "url":  "https://raw.githubusercontent.com/hsdjigheui/kiri-release/main/app-release.apk",
-    "sha256":  "79cfe907c897ceef463d7e8e90f28170af075990d22185a941528ca6e576cf2d",
-    "size":  2918635,
+    "versionCode":  20262151,
+    "versionName":  "1.1.1",
+    "tag":  "v1.1.1",
+    "url":  "https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.1/app-release.apk",
+    "mirrors":  [
+                    "https://ghfast.top/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.1/app-release.apk",
+                    "https://gh-proxy.com/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.1/app-release.apk",
+                    "https://ghproxy.net/https://github.com/hsdjigheui/kiri-release/releases/download/v1.1.1/app-release.apk"
+                ],
+    "sha256":  "f7b78ef0ddd16bc9b767d42f9ac4853b35d55705f30570fd287cd9940a1c89b0",
+    "size":  2918623,
     "notes":  [
-                  "新增抖音板块",
-                  "新增评论屏蔽词",
-                  "新增助手设置面板",
-                  "新增底栏沉浸"
+                  "GitHub 地址改为发布页",
+                  "更新入口跳转修复",
+                  "启动自动检查更新"
               ]
 }
